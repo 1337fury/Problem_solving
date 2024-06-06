@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <limits.h>
+
 int reverse(int x){
     long rs = 0;
     int ld = 0;
